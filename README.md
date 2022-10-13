@@ -1,1 +1,1 @@
-# grpc-workshop
+# grpc-ffb
